@@ -4,9 +4,17 @@
 
 ### Who am I?
 
-I'm a first-year undergraduate student at the University of Sri Jayewardenepura, deeply interested in technology. While pursuing my degree in Information Technology, I aim to develop expertise and excel in the field.
+I'm a first-year undergraduate student at the University of Sri Jayewardenepura, deeply interested in technology. While pursuing my degree in Information Technology, I aim to develop expertise and excel in the field. I'm particularly interested in:
 
-### My stats
+- 🔧 Software Development
+- 🌐 Web Development
+- 📊 Data Science and Analytics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?
-username=ImeshShanaka&show_icons=true&include_all_commits=true&theme=dracula" alt="Github Stats" />
+I'm currently learning:
+
+- 🧑‍💻 **Programming Languages:** Python, HTML/CSS, JavaScript
+- 🛠️ **Tools and Technologies:** Git,
+
+### My Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?ImeshShanaka=yourusername&show_icons=true&theme=radical)
