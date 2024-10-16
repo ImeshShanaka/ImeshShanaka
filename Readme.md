@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Imesh Shanaka
 
-[![GitHub followers](https://img.shields.io/github/followers/ImeshShanakastyle=social)](https://github.com/ImeshShanaka) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imesh-shanaka/)
+[![GitHub followers](https://img.shields.io/github/followers/ImeshShanakastyle=social)][![GitHub](https://github.com/ImeshShanaka) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imesh-shanaka/)
 
 ### Who am I?
 
