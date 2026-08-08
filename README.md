@@ -46,12 +46,29 @@
   <ul align="center">
     <summary><h2 style="display: inline-block">GitHub Journey 📈</h2></summary>
   </ul>
-  <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/ImeshShanaka/ImeshShanaka/output/snake-dark.svg">
-      <img src="https://raw.githubusercontent.com/ImeshShanaka/ImeshShanaka/output/snake.svg"
-       alt="GitHub Contribution Snake">
-  </picture>
+
+  <a href="https://github.com/ImeshShanaka">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=ImeshShanaka&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+      alt="ImeshShanaka's GitHub Stats"
+    />
+  </a>
+
+  <a href="https://github.com/ImeshShanaka">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImeshShanaka&layout=compact&theme=github_dark&hide_border=true"
+      alt="ImeshShanaka's Top Languages"
+    />
+  </a>
+    <!-- Snake --->
+    <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/ImeshShanaka/ImeshShanaka/output/snake-dark.svg">
+        <img src="https://raw.githubusercontent.com/ImeshShanaka/ImeshShanaka/output/snake.svg"
+         alt="GitHub Contribution Snake">
+    </picture>
 </div>
 
 <hr>
