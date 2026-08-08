@@ -42,21 +42,18 @@
 <hr>
 
 <!--graph-->
-<div id="user-content-toc">
+<div id="user-content-toc", align = "center">
   <ul align="center">
     <summary><h2 style="display: inline-block">GitHub Journey 📈</h2></summary>
   </ul>
-</div>
-<picture>
+  <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/ImeshShanaka/ImeshShanaka/output/snake-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/ImeshShanaka/ImeshShanaka/output/snake.svg">
-
-  <img src="https://raw.githubusercontent.com/ImeshShanaka/ImeshShanaka/output/snake.svg"
+      <img src="https://raw.githubusercontent.com/ImeshShanaka/ImeshShanaka/output/snake.svg"
        alt="GitHub Contribution Snake">
-</picture>
+  </picture>
+</div>
+
 <hr>
 <!-- Connect with me -->
 <!--h2 without bottom border-->
