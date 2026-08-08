@@ -47,28 +47,35 @@
     <summary><h2 style="display: inline-block">GitHub Journey 📈</h2></summary>
   </ul>
 
-  <a href="https://github.com/ImeshShanaka">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=ImeshShanaka&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-      alt="ImeshShanaka's GitHub Stats"
-    />
-  </a>
+<!-- GitHub Stats -->
 
-  <a href="https://github.com/ImeshShanaka">
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImeshShanaka&layout=compact&theme=github_dark&hide_border=true"
-      alt="ImeshShanaka's Top Languages"
-    />
-  </a>
-    <!-- Snake --->
-    <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/ImeshShanaka/ImeshShanaka/output/snake-dark.svg">
-        <img src="https://raw.githubusercontent.com/ImeshShanaka/ImeshShanaka/output/snake.svg"
-         alt="GitHub Contribution Snake">
-    </picture>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api?username=ImeshShanaka&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ImeshShanaka&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- GitHub Contribution Snake -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ImeshShanaka/ImeshShanaka/output/snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ImeshShanaka/ImeshShanaka/output/snake.svg">
+  <img
+    src="https://raw.githubusercontent.com/ImeshShanaka/ImeshShanaka/output/snake.svg"
+    alt="GitHub Contribution Snake">
+</picture>
+
 </div>
 
 <hr>
