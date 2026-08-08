@@ -47,6 +47,16 @@
     <summary><h2 style="display: inline-block">GitHub Journey 📈</h2></summary>
   </ul>
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/ImeshShanaka/ImeshShanaka/output/snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/ImeshShanaka/ImeshShanaka/output/snake.svg">
+
+  <img src="https://raw.githubusercontent.com/ImeshShanaka/ImeshShanaka/output/snake.svg"
+       alt="GitHub Contribution Snake">
+</picture>
 <hr>
 <!-- Connect with me -->
 <!--h2 without bottom border-->
